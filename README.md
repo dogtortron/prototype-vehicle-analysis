@@ -1,1 +1,3 @@
-# prototype-vehicle-analysis
+# Executive Summary
+
+This project aims to study the effect of braking on the tires of 20 prototype vehicles. I developed a linear regression model using scikit-learn and applied statistical methods to predict braking force based on speed. Braking data from 20 prototype vehicles revealed a maximum force of 1523.08 units on the driver’s front tire. For speeds between 40–50 MPH, the sample mean force was 1363.34 units, with a 99.9% confidence interval for the theoretical mean ranging from 1358.19 to 1368.49 units. A linear regression model predicts a force of 1364.88 units at 45 MPH, supporting consistent and predictable braking performance across tested conditions.
